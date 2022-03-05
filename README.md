@@ -1,1 +1,1 @@
-# react-model
+# React-Modal
